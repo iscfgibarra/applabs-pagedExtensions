@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Extensiones para paginar IQueryable</Description>
+    <Copyright>2019 ©AppLabs</Copyright>
+    <PackageTags>IQueryable, Linq</PackageTags>
+    <PackageProjectUrl>https://github.com/iscfgibarra/applabs-pagedExtensions</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
